@@ -65,6 +65,15 @@ switch ($menuactive) {
         $description = "Why Getting Regular Blood Tests is Crucial for Your Health | Pravi Labs | Contact Us Now.";
         break;
 
+    case 'Biopsy-Test.php':
+        $title = "Biopsy Test in Mumbai & Navi Mumbai | Pravi Labs";
+        $description = "Get accurate biopsy testing in Mumbai & Navi Mumbai. Reliable pathology services for precise diagnosis and better healthcare decisions.";
+        break;
+
+    case 'Genetics-Test.php':
+        $title = "Genetic Testing for Personalized Health Insights | Pravi Labs";
+        $description = "Unlock your genetic potential with advanced DNA testing. Get personalized health insights for better wellness and lifestyle choices.";
+        break;
 
     case 'Pathology-lab-in-vashi-Sector-1.php':
         $title = "PraviLabs in Vashi, Sector 1 – Free Blood Collection in 60 Min";
